@@ -8,5 +8,7 @@ This does "NOT" mean the plugins might be malicius, all plugins can be easely de
 
 # How to add
 Repository information:
+
 Github Repository owner: ImNoOSRS
+
 Github Repository name: plugins
