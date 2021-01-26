@@ -3,6 +3,9 @@
 
 Join our discord: https://discord.com/invite/6MwVqJu
 
+# Other channels
+Join UG Plugins: https://discord.gg/TQ2pSxcbx2
+
 # How to add
 Repository information:
 
