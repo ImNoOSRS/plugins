@@ -1,7 +1,7 @@
 # plugins
  ImNo's Plugins
 
-Join our discord: https://discord.com/invite/6MwVqJu
+Join our discord: https://discord.gg/Pn735axzPP
 
 # Other channels
 Join UG Plugins: https://discord.gg/TQ2pSxcbx2
